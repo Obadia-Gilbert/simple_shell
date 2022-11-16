@@ -1,7 +1,7 @@
 #include "shell.h"
 
 /**
- * authors: Brian LEMA AND obadia Gilbert
+ * authors: Brian Lema AND Obadia Gilbert
  * main - Simple Shell (Hsh)
  *@ALX-school
  * @argc: Argument Count
