@@ -1,6 +1,7 @@
 #include "shell.h"
 
 /**
+ * Description: program return Exit Value Status
  * authors: Brian Lema AND Obadia Gilbert
  * main - Simple Shell (Hsh)
  *@ALX-school
