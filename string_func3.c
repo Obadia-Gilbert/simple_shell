@@ -1,5 +1,6 @@
 #include "shell.h"
 /**
+ * _putchar - putshar description.
  * @c: The character to print
  *
  * Return: On success 1.
