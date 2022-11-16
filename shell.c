@@ -1,9 +1,8 @@
 #include "shell.h"
 
 /**
- * Description: program return Exit Value Status
- * authors: Brian Lema AND Obadia Gilbert
  * main - Simple Shell (Hsh)
+ * Description: exit value by status
  *@ALX-school
  * @argc: Argument Count
  * @argv:Argument Value
