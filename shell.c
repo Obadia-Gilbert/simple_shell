@@ -1,13 +1,11 @@
 #include "shell.h"
 
 /**
- * Description: program return Exit Value Status
- * authors: Brian Lema AND Obadia Gilbert
  * main - Simple Shell (Hsh)
- *@ALX-school
- * @argc: Argument Count
  * @argv:Argument Value
+ * @argc: Argument Count
  * Return: Exit Value By Status
+ * authors: Brian Lema AND Obadia Gilbert
  */
 
 int main(__attribute__((unused)) int argc, char **argv)
