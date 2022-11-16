@@ -2,6 +2,8 @@
 
 /**
  * main - Simple Shell (Hsh)
+ * Description: exit value by status
+ *@ALX-school
  * @argv:Argument Value
  * @argc: Argument Count
  * Return: Exit Value By Status
