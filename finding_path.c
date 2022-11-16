@@ -1,9 +1,7 @@
 #include "shell.h"
 /**
- **_strncpy - copies a string
- *@path_cmd: the destination string to be copied to
- *@src: the source string
- *@n: the amount of characters to be copied
+ *path_cmd - the destination string
+ *@cmd: the source string
  *Return: the concatenated string
  */
 int path_cmd(char **cmd)

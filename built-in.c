@@ -1,6 +1,5 @@
 #include "shell.h"
 /**
- * authors:Amos Mwongela and Oyebanji Olawale Amzat
  * exit_bul - Exit Statue Shell
  * @cmd: Parsed Command
  * @input: User Input
