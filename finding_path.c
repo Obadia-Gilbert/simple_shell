@@ -1,9 +1,10 @@
 #include "shell.h"
 /**
- * authors:Oyebanji Olawale Amzat and Amos
- * path_cmd -  Search In $PATH For Excutable Command
- * @cmd: Parsed Input
- * Return: 1  Failure  0  Success.
+ **_strncpy - copies a string
+ *@path_cmd: the destination string to be copied to
+ *@src: the source string
+ *@n: the amount of characters to be copied
+ *Return: the concatenated string
  */
 int path_cmd(char **cmd)
 {
